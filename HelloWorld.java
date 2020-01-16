@@ -7,7 +7,7 @@ public class HelloWorld
 		System.out.println("HelloWorld1");
 		System.out.println("888");
 		System.out.println("HelloWorld1");
-		System.out.println("777");
+		System.out.println("哈哈哈哈哈哈哈哈哈");
 
 	}
 }
